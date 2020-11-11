@@ -1,1 +1,1 @@
-# WeCareGit
+# WeCare Spring Micoservices Properties
